@@ -1,0 +1,240 @@
+ {
+   "items": [
+      {
+         "allowBookingIteration": false,
+         "availability": "public",
+         "availableForWidget": true,
+         "bufferDuration": 0,
+         "capacity": 1,
+         "color": "#FF3366",
+         "company": {
+            "id": "1016171574951001",
+            "name": "IT Services",
+            "selfLink": "https://api.agendize.com/api/2.1/scheduling/companies/1016171574951001"
+         },
+         "description": "<p>Echange t&eacute;l&eacute;phonique au sujet de votre projet<\/p>",
+         "duration": 60,
+         "i18n": {
+            "en": {
+               "description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+               "name": "Follow-up"
+            },
+            "es": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "fr": {
+               "description": "\r\n\r\n\r\n\r\n\r\n<p>Echange t&eacute;l&eacute;phonique au sujet de votre projet<\/p>\r\n\r\n",
+               "name": "Suivi de votre projet"
+            }
+         },
+         "id": "1016178361415935",
+         "maxAppointmentsPerDay": 0,
+         "name": "Suivi de votre projet",
+         "overNight": false,
+         "overNightStartTime": "",
+         "payable": false,
+         "staff": [
+            {
+               "firstName": "Frédéric",
+               "id": "1016171574965255",
+               "lastName": "Durand"
+            },
+            {
+               "firstName": "Xavier",
+               "id": "1016195434489669",
+               "lastName": "Lavolé"
+            },
+            {
+               "firstName": "Marie",
+               "id": "2016182414559009",
+               "lastName": "Ruszkiewicz"
+            }
+         ],
+         "validation": "location"
+      },
+      {
+         "allowBookingIteration": false,
+         "availability": "public",
+         "availableForWidget": true,
+         "bufferDuration": 0,
+         "capacity": 1,
+         "color": "#FF3366",
+         "company": {
+            "id": "1016171574951001",
+            "name": "IT Services",
+            "selfLink": "https://api.agendize.com/api/2.1/scheduling/companies/1016171574951001"
+         },
+         "description": "<p>Durant cet &eacute;change vous allez d&eacute;couvrir les b&eacute;n&eacute;fices de notre plateforme pour votre activit&eacute;. Un &eacute;change pr&eacute;alable est n&eacute;cessaire pour personnaliser votre exp&eacute;rience.&nbsp;<\/p>",
+         "duration": 60,
+         "i18n": {
+            "en": {
+               "description": "\r\n\r\n\r\n\r\n\r\n<p>Get a chance to learn more about our platform through a product demo focused on your use cases<\/p>\r\n\r\n",
+               "name": "Product demo"
+            },
+            "es": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "fr": {
+               "description": "\r\n\r\n\r\n\r\n\r\n<p>Durant cet &eacute;change vous allez d&eacute;couvrir les b&eacute;n&eacute;fices de notre plateforme pour votre activit&eacute;. Un &eacute;change pr&eacute;alable est n&eacute;cessaire pour personnaliser votre exp&eacute;rience.&nbsp;<\/p>\r\n\r\n",
+               "name": "Démo de la plateforme"
+            }
+         },
+         "id": "1016178468310180",
+         "maxAppointmentsPerDay": 0,
+         "name": "Démo de la plateforme",
+         "overNight": false,
+         "overNightStartTime": "",
+         "payable": false,
+         "staff": [
+            {
+               "firstName": "Fabienne",
+               "id": "1016171574960290",
+               "lastName": "Durand"
+            },
+            {
+               "firstName": "Léa",
+               "id": "1016171574962252",
+               "lastName": "Bouton"
+            },
+            {
+               "firstName": "Frédéric",
+               "id": "1016171574965255",
+               "lastName": "Durand"
+            },
+            {
+               "firstName": "Xavier",
+               "id": "1016195434489669",
+               "lastName": "Lavolé"
+            },
+            {
+               "firstName": "Marie",
+               "id": "2016182414559009",
+               "lastName": "Ruszkiewicz"
+            }
+         ],
+         "validation": "location"
+      },
+      {
+         "allowBookingIteration": false,
+         "availability": "public",
+         "availableForWidget": true,
+         "bufferDuration": 0,
+         "capacity": 1,
+         "color": "#00A4AC",
+         "company": {
+            "id": "1016171574951001",
+            "name": "IT Services",
+            "selfLink": "https://api.agendize.com/api/2.1/scheduling/companies/1016171574951001"
+         },
+         "description": "<p>Rendez-vous t&eacute;l&eacute;phonique de 30 minutes pour d&eacute;couvrir vos besoins.<\/p>",
+         "duration": 60,
+         "i18n": {
+            "de": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "en": {
+               "description": "\r\n\r\n\r\n\r\n\r\n<p>30-minutes meeting to understand your use case &amp; requirements<\/p>\r\n\r\n",
+               "name": "Contact request"
+            },
+            "es": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "fr": {
+               "description": "\r\n\r\n\r\n\r\n\r\n<p>Rendez-vous t&eacute;l&eacute;phonique de 30 minutes pour d&eacute;couvrir vos besoins.<\/p>\r\n\r\n",
+               "name": "Prise de contact"
+            },
+            "it": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "jp": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "nl": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "pt": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"}
+         },
+         "id": "1016171574955275",
+         "maxAppointmentsPerDay": 0,
+         "name": "Prise de contact",
+         "overNight": false,
+         "overNightStartTime": "",
+         "payable": false,
+         "staff": [
+            {
+               "firstName": "Fabienne",
+               "id": "1016171574960290",
+               "lastName": "Durand"
+            },
+            {
+               "firstName": "Léa",
+               "id": "1016171574962252",
+               "lastName": "Bouton"
+            },
+            {
+               "firstName": "Frédéric",
+               "id": "1016171574965255",
+               "lastName": "Durand"
+            },
+            {
+               "firstName": "Xavier",
+               "id": "1016195434489669",
+               "lastName": "Lavolé"
+            },
+            {
+               "firstName": "Marie",
+               "id": "2016182414559009",
+               "lastName": "Ruszkiewicz"
+            }
+         ],
+         "validation": "location"
+      },
+      {
+         "allowBookingIteration": false,
+         "availability": "public",
+         "availableForWidget": true,
+         "bufferDuration": 30,
+         "capacity": 1,
+         "color": "#BADFFD",
+         "company": {
+            "id": "1016171574951001",
+            "name": "IT Services",
+            "selfLink": "https://api.agendize.com/api/2.1/scheduling/companies/1016171574951001"
+         },
+         "description": "<p>Session de formation en visioconf&eacute;rence avec l'un de nos experts<\/p>",
+         "duration": 90,
+         "i18n": {
+            "de": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "en": {
+               "description": "\r\n\r\n\r\n\r\n\r\n<p>Book a training session with one of our product experts<\/p>\r\n\r\n",
+               "name": "Training"
+            },
+            "es": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "fr": {
+               "description": "\r\n\r\n\r\n\r\n\r\n<p>Session de formation en visioconf&eacute;rence avec l'un de nos experts<\/p>\r\n\r\n",
+               "name": "Formation"
+            },
+            "it": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "jp": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "nl": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"},
+            "pt": {"description": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n"}
+         },
+         "id": "1016171574955665",
+         "maxAppointmentsPerDay": 0,
+         "name": "Formation",
+         "overNight": false,
+         "overNightStartTime": "",
+         "payable": false,
+         "staff": [
+            {
+               "firstName": "Fabienne",
+               "id": "1016171574960290",
+               "lastName": "Durand"
+            },
+            {
+               "firstName": "Léa",
+               "id": "1016171574962252",
+               "lastName": "Bouton"
+            },
+            {
+               "firstName": "Xavier",
+               "id": "1016195434489669",
+               "lastName": "Lavolé"
+            },
+            {
+               "firstName": "Marie",
+               "id": "2016182414559009",
+               "lastName": "Ruszkiewicz"
+            }
+         ],
+         "validation": "location"
+      }
+   ],
+   "nextSyncToken": "5fea2fb8-b4cb-458d-9592-3de33f2b4e9b"
+}
